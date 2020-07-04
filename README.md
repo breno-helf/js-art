@@ -1,0 +1,1 @@
+This is a piece of art made with HTML and Javascript. Made just for fun.
